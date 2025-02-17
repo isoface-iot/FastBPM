@@ -1,5 +1,16 @@
 # FastBPM 企業流程管理的可視化工具
 
+FastBPM是企業工作流程管理系統，解決企業流程管理遇到的問題，並以企業整體運作、自上而下、結構化、體系化的流程設計。透過e化過程，整合人力資源、訊息傳遞、管理流程、經營數據與技術知識。
+
+> **加入 Facebook 社團**
+>
+> [https://www.facebook.com/groups/isoface/](https://www.facebook.com/groups/isoface/)
+> 
+> **點讚追蹤 Facebook 粉絲專頁**
+> 
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
+
+
 ## **工廠工作管理經常發生以下問題：**
 
 1. 僅有少數資深員工知道工作該如何處理(資訊掌握在少數人、複製性、可重複使用性低) 。
